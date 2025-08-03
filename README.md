@@ -18,7 +18,7 @@ Build a machine learning model to predict the ticket price based on:
 
 ## 🧰 Tools & Libraries
 
-- Python 3
+- Python
 - Pandas & NumPy
 - Matplotlib
 - Scikit-learn
@@ -36,3 +36,4 @@ Build a machine learning model to predict the ticket price based on:
 - **R² Score:** 0.99
 
 ✅ **Random Forest** performed significantly better in terms of accuracy and generalization.
+
